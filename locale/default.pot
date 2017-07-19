@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TwitterBadgeWidger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-06 13:15-0000\n"
+"PO-Revision-Date: 2012-03-06 13:17-0000\n"
+"Last-Translator: Andy <andy@workshopshed.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: TwitterBadgeWidget.php:47
+#: ~TwitterBadgeWidget.php:47
+msgid "A widget to show twitter badge and latest tweet"
+msgstr ""
+
+#: TwitterBadgeWidget.php:63
+#: ~TwitterBadgeWidget.php:63
+msgid "less than a minute ago"
+msgstr ""
+
+#: TwitterBadgeWidget.php:64
+#: ~TwitterBadgeWidget.php:64
+msgid "about a minute ago"
+msgstr ""
+
+#: TwitterBadgeWidget.php:65
+#: ~TwitterBadgeWidget.php:65
+#, php-format
+msgid "%s minutes ago"
+msgstr ""
+
+#: TwitterBadgeWidget.php:66
+#: ~TwitterBadgeWidget.php:66
+msgid "about an hour ago"
+msgstr ""
+
+#: TwitterBadgeWidget.php:67
+#: ~TwitterBadgeWidget.php:67
+#, php-format
+msgid "%s hours ago"
+msgstr ""
+
+#: TwitterBadgeWidget.php:68
+#: ~TwitterBadgeWidget.php:68
+msgid "yesterday"
+msgstr ""
+
+#: TwitterBadgeWidget.php:69
+#: ~TwitterBadgeWidget.php:69
+#, php-format
+msgid "%s days ago"
+msgstr ""
+
+#: TwitterBadgeWidget.php:163
+#: ~TwitterBadgeWidget.php:163
+msgid "Title"
+msgstr ""
+
+#: TwitterBadgeWidget.php:164
+msgid "Twitter Screen name"
+msgstr ""
+
+#: TwitterBadgeWidget.php:165
+#: ~TwitterBadgeWidget.php:165
+msgid "Number of tweets to display (default = 1)"
+msgstr ""
+
+#: TwitterBadgeWidget.php:167
+msgid "Format"
+msgstr ""
+
+#: TwitterBadgeWidget.php:171
+#: ~TwitterBadgeWidget.php:171
+msgid "Enable"
+msgstr ""
+
+#: TwitterBadgeWidget.php:172
+#: ~TwitterBadgeWidget.php:172
+msgid "Include count"
+msgstr ""
+

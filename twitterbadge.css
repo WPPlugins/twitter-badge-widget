@@ -1,0 +1,112 @@
+/* common properties for all styles */
+
+.TBW_Time {
+    white-space:nowrap;
+    font-size:85%;
+} 
+
+.TBW_Error {
+    display:none; 
+}
+
+.TBW_Picture {
+    text-decoration: none;
+    padding: 0;        
+}
+
+.TBW_Follow {
+    margin: 0 5px 0 5px; 
+    overflow: hidden;   
+    height: 22px;    
+}
+
+.TBW_Status {
+     overflow: hidden;
+     padding: 0 5px 0 5px;    
+}
+
+.TBW_Status abbr.datetime {text-decoration:none;cursor:default;border: none;}
+
+.TBW_Status ul li {
+    margin: 0 0 0.5em 0;     
+    padding:0; 
+    list-style: none !important;
+    background: none !important;
+    /*
+    border-bottom: dotted; 
+    border-bottom-width: thin;
+    */
+}   
+
+/* This style only applies when the form is initised it's dropped once the data is loaded */
+.TBW_Loading {
+    background:url(Loading.gif);
+    background-repeat:no-repeat;
+    text-indent:20px;
+    height: 20px;
+}
+
+/* Wide theme for banner shaped widgets */
+.TBW_Wide{
+    overflow: hidden;
+    width: 100%;
+    display: block;
+}
+
+.TBW_Wide .TBW_Picture{
+    float: left;
+    width: 61px;
+    height: 23px;
+    background:url(twitter-a.png);
+    background-repeat:no-repeat;
+}
+
+.TBW_Wide .TBW_Status{
+    float: left;
+    overflow: hidden;
+    width: 65%
+}
+
+.TBW_Wide .TBW_Follow{
+    display: block;
+    float: right;
+    overflow: hidden;
+    width: 26%;
+}   
+
+.TBW_Wide a {
+    text-decoration: none !important;    
+}
+
+.TBW_Wide a:hover {
+    text-decoration: underline !important;    
+}
+
+.TBW_Wide .TBW_Status ul .TBW_Loading {
+    margin: 5px !important;
+    padding: 0 !important;
+}
+
+/* Narrow/Default theme */
+.TBW_Narrow{
+    display: block;
+    width: 100%;
+}
+
+.TBW_Narrow .TBW_Picture{
+    float: left;
+    width: 22px;
+    height: 22px;
+    margin:0 !important;
+    padding:0 !important;
+    background:url(t_small-a.png);
+    background-repeat:no-repeat;
+}
+
+.TBW_Narrow .TBW_Follow{
+    display: block;
+    width: 100%;
+}   
+
+.TBW_Narrow .TBW_Status ul li {
+}    
