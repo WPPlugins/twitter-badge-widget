@@ -165,7 +165,7 @@ var TBWTimeout = 180000;
 * Added LocTime for calls to _() in locatisation
 * Improved error handling for loc_relative_time.js
 * Changed & for &amp;amp; in the json url
-* Added microformat abbr wrapper around the time abreviation to give tool tip for actual time.
+* Added microformat abbr wrapper around the time abbreviation to give tool tip for actual time.
 * Put javascript through http://www.javascriptlint.com/online_lint.php, fixed couple of syntax issues.
 
 = 1.5 =
